@@ -1,4 +1,3 @@
-# rym-b
 <!DOCTYPE html>
 <html lang="en">
 <head>
